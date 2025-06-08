@@ -29,7 +29,7 @@ nav a
     color: #DEC9E9;
     text-decoration: none;
 }
-section + #intro {
+#intro + section {
     background-color: #000;
 color: #DEC9E9;
 }
